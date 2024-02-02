@@ -9,7 +9,7 @@ export default function App() {
     <View style={styles.container}>
       <Text><NavBar/></Text>
       <Home></Home>
-      <Post/>
+      <Post text={"asd"}/>
       <StatusBar style="auto"/>
     </View>
     
